@@ -1,0 +1,13 @@
+ model outputs
+
+1.Decision Tree:
+    Mean: 4.3416361782580655
+    Standard deviation: <built-in method std of numpy.ndarray object at 0x00000215035C9D50>
+
+2.Linear Regression:
+    Mean: 5.02883876792392
+    Standard deviation: <built-in method std of numpy.ndarray object at 0x000002424E2A7F90>
+
+3.Random Forest Regression 
+    Mean: 3.2769582050004162
+    Standard deviation: <built-in method std of numpy.ndarray object at 0x000002000ED64510>
